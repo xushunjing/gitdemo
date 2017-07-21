@@ -2,3 +2,8 @@ Main()
 {
 	print "Hello world"
 }
+
+metho()
+{
+	print "my name is xsj"
+}
